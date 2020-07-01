@@ -1,2 +1,2 @@
-# kagrawal1.github.com
+# kagrawal1.github.io
 Just a beginner website
